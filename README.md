@@ -1,4 +1,5 @@
-# LTHDT_Tuan1_H8-03
+# LTHDT_Tuan1-2-3_H8-03
+LTHDT_Tuan1_H8-03;
 Nộp bài Lập trình hướng đối tượng(OOp) tuần 1; 
 DHKHMT17ATT422000411901; 
 Tiết: 1 - 3; 
